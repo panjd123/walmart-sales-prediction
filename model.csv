@@ -1,0 +1,7 @@
+model,MAPE
+SVM,59.56%
+xgboost,7.81%
+LSTM,8.15%
+LMD+SVM,58.74%
+LMD+xgboost,7.65%
+LMD+LSTM,6.41%
